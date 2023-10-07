@@ -159,7 +159,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![image](https://github.com/knight7080/slot/assets/88542035/25ad7a43-917e-4e12-a7d7-9fb70e073ae4)
+<img width="960" alt="image" src="https://github.com/Muralikrishnan13/slot1/assets/130058615/b26618cb-3e7d-483e-ab59-00e79c915f1a">
 
 
 ## RESULT
